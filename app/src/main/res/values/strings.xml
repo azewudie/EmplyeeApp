@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Employee Directory App</string>
+    <string name ="app_logo"> S. Employee</string>
+    <string name ="employee_directory_empty_text"> Employee Directory is Empty</string>
+    <string name="app_header_text">"Work. Paid. Rest"</string>
+    <string name="button_text">"Refresh"</string>
+    <string name="button_label">"Try Again"</string>
+    <string name="progress_loading_text">"Loading…"</string>
+    <string name="network_error_text">"Network Error"</string>
+    <string name="unknown_error_text">"Server Error"</string>
+    <string name="employee_directory_info">"Employee directory info"</string>
+</resources>
