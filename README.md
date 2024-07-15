@@ -49,3 +49,27 @@ I'm incredibly excited about the opportunity it presents.
 I'm confident that I'm the right fit for this role and a valuable addition to the team.
 I'm eager to contribute significantly to the project's success and the company's growth.
 I am looking forward to the next step.
+
+## Splash screen design dark them
+
+![Screenshot_20240714_194817.png](..%2FScreenshot_20240714_194817.png)
+
+## Splash screen design light  theme
+
+![Screenshot_20240714_143738.png](..%2FScreenshot_20240714_143738.png)
+
+## Loading state design dark them
+
+![Screenshot_20240715_190124.png](..%2FScreenshot_20240715_190124.png)
+
+## loading sate  design light  theme
+
+![Screenshot_20240715_185645.png](..%2FScreenshot_20240715_185645.png)
+
+## App home screen design dark theme
+
+![Screenshot_20240715_190103.png](..%2FScreenshot_20240715_190103.png)
+
+## App home screen design light theme
+
+![Screenshot_20240715_185707.png](..%2FScreenshot_20240715_185707.png)
