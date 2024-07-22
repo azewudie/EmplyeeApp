@@ -1,11 +1,3 @@
-## Splash screen design dark them
-
-![Screenshot_20240714_194643](https://github.com/user-attachments/assets/7a0afe45-95e8-4873-ae67-d21155605a33)
-
-## Splash screen design light  theme
-
-![Screenshot_20240714_143738](https://github.com/user-attachments/assets/3e923d0d-5d45-46f1-967b-154a01d6363e)
-
 ## Loading state design dark them
 
 ![Screenshot_20240715_190124](https://github.com/user-attachments/assets/0722ae55-05da-4d70-9cf1-cbcce496086f)
